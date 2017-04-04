@@ -1,0 +1,33 @@
+<div id="sidebar" class="col-xs-6 col-sm-4 col-md-3 sidebar-offcanvas">
+  <div class="sidebar-content">
+    <h1 class="sidebar-heading"><a href="/">{{ .Site.Title }}</a></h1>
+    <div class="sidebar-logo">
+      <img src="{{ .Site.Params.logo }}" alt="">
+    </div>
+    <ul class="sidebar-menu">
+      {{ $url := .Site.BaseURL }}
+      {{ range .Site.Params.navlinks }}
+        <li><a href="{{ $url }}{{ .url }}">{{ .name }}</a></li>
+      {{ end }}
+    </ul>
+
+    {{ range .Site.Params.sidebarAbout }}
+      <p class="sidebar-p">{{ . | safeHTML }}</p>
+    {{ end }}
+
+    <p><i>{{ .Site.Params.sidebarMotto }}</i></p>
+
+    {{ partial "kalender.html" . }}
+
+    {{ partial "socialButtonsInSideBar.html" . }}
+
+    <div class="copyright">
+      <p class="credit">
+        {{ with .Site.Params.copyright }}
+          {{ . | safeHTML }}
+        {{ end }}
+        {{ partial "attribution.html" . }}
+      </p>
+    </div>
+  </div>
+</div>
