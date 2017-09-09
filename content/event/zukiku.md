@@ -33,3 +33,6 @@ Felix Bänteli, Künstler und Workshopleiter, LABOR
 Mirijam Ziegler, Grafikerin
 Malin Widén, Illustratorin, Leiterin KiKuKu (KinderKunstKurs)
 
+Was dabei entstanden ist, sieht man bis Ende April auf Anfrage im Labor Luzern an der Güterstrasse 6. 
+
+![ZuKiKu](/img/event/zukiku2.jpg)
