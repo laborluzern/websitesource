@@ -10,6 +10,9 @@ Zukiku, Zukunfts- Kinderkurs
 Dienstag, 18. - Samstag, 22. April 2017, jeweils 13 Uhr bis 17 Uhr
 
 Hast du dir schon einmal überlegt wie die Welt in Zukunft aussehen könnte?
+
+<!--more-->
+
 Wie die Menschen in Zukunft leben, wie ihre Häuser aussehen, was sie essen,
 wie sie arbeiten, wie sie miteinander sprechen, welche Musik sie hören,
 was für Maschinen sie benutzen, was für Tiere leben und welche Pflanzen es gibt?
