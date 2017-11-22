@@ -23,6 +23,11 @@
                           <div class="box-masonry-desription">
                               <p>{{ .Summary }}</p>
                           </div>
+                          {{ if .Truncated }}
+                          <div>
+                            <a href="{{ .RelPermalink }}">Mehr…</a>
+                          </div>
+                          {{ end }}
                       </div>
                   </div>
               </div>
