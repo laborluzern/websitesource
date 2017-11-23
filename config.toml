@@ -1,4 +1,4 @@
-baseurl = "http://test.laborluzern.ch/"
+baseurl = "http://www.laborluzern.ch/"
 title = "Labor Luzern"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
