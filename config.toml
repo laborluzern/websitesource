@@ -13,7 +13,7 @@ googleAnalytics = ""
   # Use custom.css for your custom styling
   style = "default"
   description = "Labor Luzern"
-  copyright = "&copy;2017 Labor Luzern"
+  copyright = "&copy;2017&mdash;2018 Labor Luzern"
   sidebarMotto = "DIT - Do It Together!"
   sidebarAbout = [
 "Das LABOR Luzern ist eine Plattform für Bildung und eine Community im Bereich zeitgenössischer Medien.",
