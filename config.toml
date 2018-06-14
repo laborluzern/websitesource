@@ -54,6 +54,10 @@ googleAnalytics = ""
   name = "Partner"
   url = "partner/"
 
+  [[params.navlinks]]
+  name = "Workshops"
+  url = "workshops/"
+
   [params.social]
   email         = "labor@laborluzern.org"
   facebook      = "https://www.facebook.com/labor.luzern.1"
