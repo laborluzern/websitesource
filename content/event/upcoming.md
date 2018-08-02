@@ -1,7 +1,7 @@
 +++
 
 title = "Upcoming Events"
-date = "2017-09-29T20:42:55+02:00"
+date = "2018-06-29T20:42:55+02:00"
 image = "/img/event/fxflyer.jpg"
 
 +++
