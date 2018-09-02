@@ -1,12 +1,12 @@
 +++
-date = "2017-04-02T14:30:37+02:00"
+date = "2018-09-01T14:30:37+02:00"
 title = "Hackspace - Offene Werkstatt"
 
 +++
 
 ## Offene Werkstatt
 
-Der Verein LABOR Luzern betreibt seit 2012 den „Hackspace“, eine öffentliche Werkstatt, an der Güterstrasse 6 in Luzern.  
+Der Verein LABOR Luzern betreibt seit 2012 den „Hackspace“, eine öffentliche Werkstatt, in Luzern. Seit September 2018 sind wir an der Degenstrasse 3 in Kriens.  
 
 Jeden **Mittwoch ab 20.00 Uhr** steht der Hackspace allen Interessierten offen, um an Projekten zu arbeiten, sich mit Mitgliedern des Labors auszutauschen oder um einfach mal Laborluft zu schnuppern.
 
