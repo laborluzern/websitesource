@@ -2,7 +2,7 @@
 
 title = "Neueröffnung LABOR Luzern im FUSILLI"
 date = "2018-08-27T20:42:55+02:00"
-image = "/img/event/laboraufbau.JPG"
+image = "/img/event/laboraufbau.jpg"
 
 +++
 
