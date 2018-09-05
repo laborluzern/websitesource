@@ -1,7 +1,7 @@
 +++
 date = "2099-04-02T16:00:48+02:00"
 title = "Hackspace"
-image = "/img/event/hackspace.jpg"
+image = "/img/event/hackspace-kriens.jpg"
 
 +++
 
