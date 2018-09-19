@@ -4,10 +4,10 @@ title = "Kontakt"
 
 +++
 
-Die offene Werkstatt ist jeweils am Mittwoch ab 20:00 Uhr geöffnet. Wir sind zuhause an der Degenstrasse 3 in Kriens. Türklingel falls geschlossen ist: 077 488 58 23.
+Die offene Werkstatt ist jeweils am Mittwoch ab 20:00 Uhr geöffnet. Wir sind zuhause an der [Degenstrasse 3](https://www.openstreetmap.org/?mlat=47.03598&mlon=8.27985#map=18/47.03598/8.27985) in Kriens. Türklingel falls geschlossen ist: 077 488 58 23.
 
 Kommen Sie vorbei!
 
 labor@laborluzern.org
 
-![Karte](/img/about/labor-degenstrasse.png)
+![Karte](/img/about/labor-teiggi-kriens.jpg)
