@@ -32,6 +32,7 @@ googleAnalytics = ""
      # - you're done. Happy mailing!
   email = ""
   logo = "/img/about/LaborLogo_graustufen177.png"
+  wikiURL = "https://github.com/laborluzern/space/wiki"
 
   # Nav links in the side bar
   [[params.navlinks]]

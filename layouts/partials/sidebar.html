@@ -9,6 +9,7 @@
       {{ range .Site.Params.navlinks }}
         <li><a href="{{ $url }}{{ .url }}">{{ .name }}</a></li>
       {{ end }}
+        <li><a href="{{ .Site.Params.wikiURL }}">Wiki</a></li>
     </ul>
 
     {{ range .Site.Params.sidebarAbout }}
