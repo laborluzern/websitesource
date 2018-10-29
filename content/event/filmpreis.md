@@ -5,8 +5,9 @@ image = "/img/event/ZCHFilmpreis.jpg"
 
 +++
 
-Am Zentralschweizer Filmpreisverleih vom Freitag, 3. bis am Sonntag 5. März fuhr das Labor Luzern im Bourbaki mit vielen Livevisualz Gadgets auf.
-
+Wo sich Agenturen und Filmproduzenten mit tollen Mac-Displays zeigten, wirkten wir doch etwas Exotisch. Den Zentralschweizer Filmpreisverleih haben wir dem Versuchsfeld Experimental Video bespielt. Röhrenmonitore, umgebaute Kameras die sich in einer mechanischen Konstruktion mit Highspeed 360Grad drehten, Spielzeugkameras welche sich einem kleinen Hack unterzogen haben, oder ein Videokassettenrekorder welcher mit 12 Störbild-Effekten umgebaut wurde. DIY und Hackerspirit im Video wurden vor Ort Vermittelt. Ging was kaputt wurde es repariert. Das Experimentierfeld stand offen für weitere Versuche. So wurde ein Keyboard und deren Audio Output direkt in ein Röhrenmonitor eingespeist, oder ein Audio Reaktives Video Konzept wurde programmiert. 
 <!--more-->
 
-Auch da gibts Erinnerungen, Videos und Bilder irgendwo online... Das Highlight: Natürlich die rotierende Kamera von Fabio Colledani!
+<img src="spincam.jpg">
+
+
