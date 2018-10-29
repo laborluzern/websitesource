@@ -5,9 +5,6 @@ title = "Labor Luzern: Gaffen & Machen"
 +++
 
 
-Datum: Jeder letzte Donnerstag im Monat, erstes Mal am 26. Oktober 2017
-Zeit: Ab 20:00
-
 Das Labor Luzern lädt ein zur Präsentationsrunde, zum Easy Talk und Showroom: Eigene oder fremde, vollendete oder unfertige Projekte können unkompliziert im gemütlichen Allgemeinspace von der Ateliergemeinschaft Botenplätze Nord präsentiert werden. Alles aus Kunst und Kultur, Gott und die Welt oder sonstige Dinge, die man im Leben so macht, sind willkommen – die Themenwahl ist unbeschränkt!
 <!--more-->
 
