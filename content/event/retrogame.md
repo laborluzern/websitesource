@@ -2,7 +2,7 @@
 +++
 title = "Retro Game Night"
 date = "2016-10-02T23:35:29+02:00"
-image ="/img/event/retrogameflyer,jpg
+image ="/img/event/retrogameflyer.jpg"
 +++
 
 Das Jurassic Lab lädt ein zur leichten Kost: abseits der Hochauflösung, zurück zu Pixel und 8-Bit-Ästhetik. Ja, es wird gespielt! 

@@ -1,7 +1,7 @@
 +++
 title = "Circuit Bending: Meet & Beep"
 date = "2017-11-02T23:35:29+02:00"
-image ="/img/event/cb,jpg 
+image ="/img/event/cb.jpg"
 +++
 
 
