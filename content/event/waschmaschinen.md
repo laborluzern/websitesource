@@ -11,3 +11,5 @@ Aufgrund des Comix-Festivals Fumetto hatten wir ausgehölte Waschmaschinen im La
 
 Ort: Güterstrasse 6, 6005 Luzern / Allgemeinspace der Ateliergemeinschaft Botenplätze Nord
 
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Flaborluzern%2Fvideos%2F924198447736386%2F%3Facontext%3D%257B%2522action_history%2522%253A[%257B%2522mechanism%2522%253A%2522recent_posts_card%2522%252C%2522surface%2522%253A%2522permalink%2522%252C%2522extra_data%2522%253A%2522[]%2522%257D%252C%257B%2522surface%2522%253A%2522permalink%2522%252C%2522mechanism%2522%253A%2522recent_posts_card%2522%252C%2522extra_data%2522%253A%2522[]%2522%257D]%257D&width=500&show_text=false&height=365&appId" width="500" height="365" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media" allowFullScreen="true"></iframe>
