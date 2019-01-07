@@ -1,6 +1,6 @@
 +++
 title = "Palaver Blockchain"
-date = "2019-1-14T20:42:55+02:00"
+date = "2019-01-14T20:42:55+02:00"
 image = "/img/event/blockchain.png"
 +++
 
