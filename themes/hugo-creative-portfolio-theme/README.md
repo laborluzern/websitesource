@@ -17,6 +17,7 @@ Go to the directory where you have your Hugo site and run:
 $ mkdir themes
 $ cd themes
 $ git clone https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
+$ rm -rf hugo-creative-portfolio-theme/.git
 ```
 
 For more information read the official [setup guide](https://gohugo.io/overview/installing/) of Hugo.
@@ -83,6 +84,9 @@ Now enter [`localhost:1313`](http://localhost:1313) in the address bar of your b
 
 ## Deployment
  - [Deploying to Amazon S3](https://github.com/kishaningithub/hugo-creative-portfolio-theme/wiki/Deploying-to-Amazon-S3)
+
+## Base theme version (From bootstrapious)
+ - 1.0
 
 ## Contributing
 
