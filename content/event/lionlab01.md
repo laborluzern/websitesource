@@ -1,7 +1,7 @@
 
 +++
 title = "Lionlab in process"
-date = "2019-06-20T12:00:00+02:00"
+date = "2019-06-29T20:00:00+02:00"
 image ="/img/event/lionholz02.jpg"
 +++
 
