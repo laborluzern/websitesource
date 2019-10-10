@@ -15,7 +15,7 @@ Durch die multimediale Installation LionLab widmet sich LABOR Luzern der Differe
 
 Wir freuen uns im Rahmen des <a href="https://www.loewendenkmal21.ch/ueber-l21/">«Löwendenkmal 21» ein Mehrjahresprojekt der Kunsthalle Luzern</a>, teilnehmen zu können.
 
-Somit wird die Installation «LionLab» an der Austellung <a href="https://www.loewendenkmal21.ch/projekt/we-are-the-lion">«We Are The Lion»</a> in der Kunsthalle Luzern vom 17.10.2019 bis 22.10.2019 ausgestellt.
+Somit wird die Installation «LionLab» an der Austellung <a href="https://www.loewendenkmal21.ch/projekt/we-are-the-lion">«We Are The Lion»</a> in der Kunsthalle Luzern vom 17.10.2019 bis 22.12.2019 ausgestellt.
 Ausserdem wird das LABOR Luzern am 15.11.2019 zur Klang und Soundperformance einladen.
 
 
