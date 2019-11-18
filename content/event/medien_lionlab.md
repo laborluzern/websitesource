@@ -15,3 +15,8 @@ image = "/img/event/medien_lionlab.png"
 Auch "041 - das Kulturmagazin" hat unsere Werk nicht verpasst:
 
 [Artikel online](https://www.null41.ch/blog/eine-friedliche-rueckeroberung)
+
+
+Video-Reportage auf artTV.ch (<em>kulturfernsehen im netz</em>):
+
+[Sendung online](https://www.arttv.ch/videoembed/?vid_id=8192)
