@@ -7,7 +7,7 @@ image ="/img/event/RGNreloaded.gif"
 
 Datum: 27./28. Dezember 2019
 
-Zeit: Freitag ab 19 Uhr, Samstag ab 13 Uhr
+Zeit: Freitag ab 19 Uhr, Samstag ab 14 Uhr
 
 Ort: LABOR Luzern, Degenstrasse 3, Luzern
 
