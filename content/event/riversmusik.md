@@ -9,7 +9,7 @@ Zeit: 18 Uhr
 
  # Konzert "Rivers" # Labor-Jam # Musikalischer Hackspace # Fondueessen #
 
-Die Jazzquartet "Rivers" spilt 18. Januar 2020 im Labor Luzern (Teiggi). Danach bleibt die Bühne offen, es geht weiter, "Labor Style"!
+Die Jazzquartet "Rivers" spilt am Samstag 18. Januar 2020 im Labor Luzern (Teiggi). Danach bleibt die Bühne offen, es geht weiter, "Labor Style"!
 
 <!--more-->
 
