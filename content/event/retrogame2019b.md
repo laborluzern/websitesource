@@ -1,7 +1,7 @@
 
 +++
 title = "Retro Game Night Vol. 3"
-date = "2019-12-27T12:00:00+02:00"
+date = "2019-12-27T19:00:00+02:00"
 image ="/img/event/RGNreloaded.gif"
 +++
 
