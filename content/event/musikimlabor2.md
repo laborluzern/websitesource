@@ -1,22 +1,24 @@
 +++
 date = "2020-10-24T18:00:00+02:00"
-title = "Musik im Labor: Rivers Konzert und Jams"
-image = "/img/event/rivers_20200118_181706c.jpg"
+title = "Musik im Labor: Konzert M&C und Jimi-Jam"
+image = "/img/event/musikimlabor2.jpeg"
 +++
 
 Datum: 24.10.2020
 Zeit: 18 Uhr
- # Konzert "Rivers" # 50 Jahren ohne Jimi # Labor-Jam # Musikalischer Hackspace # Essen #
+ # Konzert "M & C" # 50 Jahren ohne Jimi # Labor-Jam # Musikalischer Hackspace # Essen #
 
 Nach dem tollen Musikabend in Januar wagen wir es wieder:
 
 Musikabend Samstag 24. Oktober 2020 im Labor Luzern (Teiggi).
-- Das Jazzquartet "Rivers" spielt
+- Der Jazzduo "M & C" spielt
 - Es wird gegessen
 - "50 Jahre ohne Jimi" (strukturierte Jam Session)
 - Jam im Labor-Style
 
 <!--more-->
+
+![Duo M & C](/img/event/musikimlabor2_mc.jpeg")
 
 Wegen guter Lüftung müssen wir wohl gegen 22h Nachtruhe machen...
 
@@ -35,4 +37,4 @@ Freundinnen oder Freunde des Labors: Alle seid ihr herzlich willkommen! Die Anza
 ![Jimi Hendrix 1967](/img/event/Jimi_Hendrix_1967.png")
 Von A. Vente - <a rel="nofollow" class="external text" href="https://wiki.beeldengeluid.nl/index.php/Bestand:67455081-15_pos.png">67455081-15 pos.png</a> <a rel="nofollow" class="external text" href="https://wiki.beeldengeluid.nl/index.php/Gallery:_Hoepla">Beeld en Geluidwiki - Gallery: Hoepla</a> (cropped), <a href="https://creativecommons.org/licenses/by-sa/3.0/nl/deed.en" title="Creative Commons Attribution-Share Alike 3.0 nl">CC BY-SA 3.0 nl</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9829202">Link</a>
 
-![Rivers live](/img/event/rivers_small.png")
+![Labor Musiksuppe](/img/event/musik-suppe.jpeg")

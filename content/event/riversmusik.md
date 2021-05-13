@@ -1,7 +1,7 @@
 +++
 date = "2020-01-18T18:00:00+02:00"
 title = "Musik im Labor: Rivers"
-image = "/img/event/rivers.png"
+image = "/img/event/rivers_20200118_181706c.jpg"
 +++
 
 Datum: 18.01.2020
@@ -16,4 +16,4 @@ Eintritt frei. Kollekte an Musiker. Freiwillige Kostenbeteiligung Fondue.
 
 Das Labor Luzern hat sich wieder als vielfältige kulturelle Werkstatt gezeigt. Vielen Dank an "Rivers", Jam-Teilnehmer und Publikum für einen tollen Abend!
 
-![Rivers live](/img/event/rivers_20200118_181706c.jpg)
+![Rivers](/img/event/rivers.png)
