@@ -1,5 +1,5 @@
 +++
-date = "2021-01-14T20:00:00+02:00"
+date = "2021-10-14T20:00:00+02:00"
 title = "Cabaret Catastrophe"
 image = "/img/event/cabaret.jpeg"
 +++
