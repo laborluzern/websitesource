@@ -6,7 +6,11 @@ weight = -1
 
 +++
 
-*** Ab 16. Dezember nur Virtueller Hackspace ***
+*** Ab Mai 2021: Hackspace ist wieder offen! ***
+
+*** Max 10 Personen. Bitte das [Schutzkonzept](/pdf/event/LABOR_Luzern_Corona_Schutzkonzept_2020-06-08.pdf) beachten. ***
+
+*** Unserer Virtueller Hackspace steht zur Verfügung, ist aber nicht immer betreut ***
 
 https://meet.jit.si/LABORLuzernsvirtuellerHackspace
 
