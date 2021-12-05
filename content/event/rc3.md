@@ -17,6 +17,6 @@ Wir freuen uns auf spannende Workshops, Vorträge und gemütliche Stunden.
 __Für den Event gilt Zertifikats- und Maskenpflicht.__  
 Das Organisationsteam behält sich vor, die Coronamassnahmen kurzfristig den aktuellen Gegebenheiten und Regelungen anzupassen. Die definitive Regelung werden wir 2-3 Tage vor dem Event veröffentlichen.
 
-## Call for participation
+## Call for parcipitation
 
 Wir sind noch auf der Suche nach lokalen Vorträgen und Workshops. Falls du noch ein spannender Workshop oder Vortrag durchführen kannst, melde dich via michi ät laborluzern punkt ch.
