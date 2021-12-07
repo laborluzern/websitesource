@@ -1,6 +1,7 @@
 +++
 date = "2021-12-10T19:00:00+02:00"
 title = "Weihnachtsessen"
+image = "/img/event/laborbaum.png"
 +++
 
 Datum: 10.12.2021
@@ -14,3 +15,4 @@ Zur Verpflegung gibts Schlangenbrot und Würste und zum Dessert Schoggibahnen vo
 
 Bei schlechtem Wetter wird am Donnerstag auf laborluzern.ch das Essen abgesagt. Falls es leicht regnen sollte, werden wir einen provisorischen Unterstand aufbauen. Wir freuen uns auf rege Beteiligung. Florian gibt bei Fragen gerne Auskunft.
 
+<!--more-->
