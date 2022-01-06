@@ -6,9 +6,7 @@ weight = -1
 
 +++
 
-*** Ab Mai 2021: Hackspace ist wieder offen! ***
-
-*** Max 16 Personen. Bitte das [Schutzkonzept](/pdf/event/LABOR_Luzern_Corona_Schutzkonzept_2020-06-08.pdf) beachten. ***
+*** Ab Jan 2022: Im Hackspace gilt 2G mit Maskenpflicht; Anwesende müssen sich in der aufliegenden Liste eintragen. Max 16 Personen. Bitte das [Schutzkonzept](/pdf/event/LABOR_Luzern_Corona_Schutzkonzept_2020-06-08.pdf) beachten. ***
 
 *** Unserer Virtueller Hackspace steht zur Verfügung, ist aber nicht immer betreut ***
 
