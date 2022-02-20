@@ -8,13 +8,13 @@ Für uns findet der rc3 "Now Here" statt. Wir geniessen den Jahresabschluss zusa
 
 <!--more-->
 
-Vom 27.12.21 bis 30.12.21 findet ein gemeinsamer öffentlicher Anlass mit LuXeria in unserem [Hackspace](/event/hackspace) statt. Egal ob du den lokalen Vorträgen und Workshops lauschen, dich in den offiziellen Tracks einklinken, selber etwas basteln oder einfach ein paar lehrreiche und gemütliche Stunden verbringen möchtest, du bist herzlich willkommen.
+Vom 27.12.21 bis 30.12.21 findet ein gemeinsamer öffentlicher Anlass mit [LuXeria](https://luxeria.ch) in unserem [Hackspace](/event/hackspace) statt. Egal ob du den lokalen Vorträgen und Workshops lauschen, dich in den offiziellen Tracks einklinken, selber etwas basteln oder einfach ein paar lehrreiche und gemütliche Stunden verbringen möchtest, du bist herzlich willkommen.
 
-__Für den Event gilt 2G + Maskenpflicht!__
+__Für den Event gilt 2G und Maskenpflicht!__
 
 ## Programm
 
-Die Vorträge und Workshops werden via Jitsi übertragen. Einen Link in den entsprechenden Raum wird an Tag 1 hier aufgeschaltet.
+Die Vorträge und Workshops werden via Jitsi übertragen. Du findest den Stream unter [meet.luxeria.ch/ChaosImLabor](https://meet.luxeria.ch/ChaosImLabor). Bitte bleibe gemuted und melde dich bei Fragen via Chatfunktion.
 
 Das Programm kann kurzfristig ändern, allfällige Änderungen werden im öffentlichen Matrix Kanal [#chaos:laborluzern.ch](https://matrix.to/#/#chaos:laborluzern.ch) veröffentlicht.
 
@@ -35,7 +35,8 @@ __ca. 23:00 Hackspace schliesst__
 __11:00 Hackspace öffnet__
 
 __15:00 - 17:00 Workshop Deep Learning 4 Dummies mit Michi__  
-Gemeinsam bauen wir neuronale Netzwerke um ein Verständniss für die Chancen und Risiken zu erhalten. Etwas Python und Mathematik Vorkenntnisse (Differenziale, Minima/Maxima) von Vorteil aber nicht zwingend.
+Gemeinsam bauen wir neuronale Netzwerke um ein Verständniss für die Chancen und Risiken zu erhalten. Etwas Python und Mathematik Vorkenntnisse (Differenziale, Minima/Maxima) von Vorteil aber nicht zwingend.  
+[Hier](https://colab.research.google.com/drive/1SCqZlvi6-uYQnBP70bWGgJ8IFowfnFf8) gehts zum IPython Notebook zum Talk
 
 __18:00 - 18:45 SpaceX Starship mit Nick__  
 Das SpaceX Starship ist die grösste interplanetarrakete der Menschheit und das grösste fliegende Objekt jemals. Wie funktioniert es? Was hat es mit der Bauform auf Sich und wie wird es gebaut? Wie wird es Möglich sein zum Mars und zurück zu fliegen?
@@ -49,7 +50,7 @@ __ca. 23:00 Hackspace schliesst__
 
 __11:00 Hackspace öffnet__
 
-___15:00 - 17:00 Workshop: Einführung in die Programmiersprache Rust mit Sebastian__  
+__15:00 - 17:00 Workshop: Einführung in die Programmiersprache Rust mit Sebastian__  
 Seit der Veröffentlichung der ersten stabilen Version in 2015 hat Rust auf Stack Overflow jedes Jahr die Wahl zur "Most Loved Programming Language" gewonnen. In diesem Workshop werden wir lernen, wie die Kernkonzepte von "Ownership & Borrowing" in Rust funktionieren und weshalb sich Rust deswegen gut für performante und robuste Programmierung eignet.
 
 __ca. 23:00 Hackspace schliesst__
