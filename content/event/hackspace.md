@@ -6,7 +6,7 @@ weight = -1
 
 +++
 
-*** Ab Jan 2022: Im Hackspace gilt 2G mit Maskenpflicht; Anwesende müssen sich in der aufliegenden Liste eintragen. Max 16 Personen. Bitte das [Schutzkonzept](/pdf/event/LABOR_Luzern_Corona_Schutzkonzept_2020-06-08.pdf) beachten. ***
+*** Hochsaison für Viren: Eigenverantwortung bleibt wegweisend: Es ist wichtig, dass Sie sich weiterhin an die Hygiene- und Verhaltensregeln halten und wenn möglich, impfen lassen. Wenn Sie Symptome haben, bleiben Sie zu Hause und lassen Sie sich testen, auch wenn Sie geimpft oder genesen sind. Herzlichen Dank für Ihre Mithilfe. ***
 
 *** Unserer Virtueller Hackspace steht zur Verfügung, ist aber nicht immer betreut ***
 
