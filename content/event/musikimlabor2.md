@@ -30,7 +30,7 @@ Wir suchen Mitmusizierende!
 
 Eintritt frei. Kollekte für die Band. Freiwillige Kostenbeteiligung am Essen.
 
-Wegen dem Essen und unserem Corona-Schutzkonzept braucht es eine Voranmeldung (bitte vor 21. Oktober an musikimlabor@laborluzern.ch schreiben).
+Wegen dem Essen und unserem Corona-Schutzkonzept braucht es eine Voranmeldung (bitte vor 21. Oktober uns schreiben).
 
 Freundinnen oder Freunde des Labors: Alle seid ihr herzlich willkommen! Die Anzahl der Plätze ist begrenzt!
 
