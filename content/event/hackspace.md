@@ -18,4 +18,4 @@ Jeden Mittwoch ab 20.00 Uhr steht der Hackspace allen Interessierten offen, um a
 
 https://meet.jit.si/LABORLuzernsvirtuellerHackspace
 
-image = "/img/event/hackspace-kriens.jpg"
+![Labor](/img/event/hackspace-kriens.jpg)
