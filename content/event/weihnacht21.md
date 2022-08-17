@@ -11,6 +11,8 @@ Das diesjährige Labor Weihnachtsessen findet am 10. Dezember ab 19 Uhr auf dem 
 
 Eingeladen sind alle Mitglieder, Freunde und Interessenten des Labors.
 
+<!--more-->
+
 Zur Verpflegung gibts Schlangenbrot und Würste und zum Dessert Schoggibahnen vom Feuer; ausserdem Glühwein, Punsch, Bier und andere Getränke. Da wir nicht zuviel Müll produzieren möchten, soll jeder seine Tasse selber mitnehmen. Das Feuer wärmt sicher wunderbar, jedoch ist warme Kleidung sinnvoll.
 
 Bei schlechtem Wetter wird am Donnerstag auf laborluzern.ch das Essen abgesagt. Falls es leicht regnen sollte, werden wir einen provisorischen Unterstand aufbauen. Wir freuen uns auf rege Beteiligung. Florian gibt bei Fragen gerne Auskunft.
