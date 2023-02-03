@@ -19,7 +19,8 @@ Der Mitgliederbeitrag beträgt 100 Fr. / Jahr
 Unsere Bankverbindung lautet wie folgt:
 ```
 LABOR Luzern
-Luzern
+Degenstrasse 3
+6010 Kriens
 
 Empfängerbank: Swiss Post, PostFinance, Nordring 8, CH - 3030 Bern
 Konto Nr.: 85-793780-4
@@ -30,4 +31,4 @@ SWIFT Code / BIC: POFICHBEXXX
 
 Es ist empfehlenswert, Zahlungen soweit möglich per Zahlungsauftrag oder per Online-Banking zu überweisen.
 
-![Einzahlungsschein](/img/about/Einzahlung800.jpeg)
+![Einzahlungsschein](/img/about/EinzahlungQR_20220921.png)
