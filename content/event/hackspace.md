@@ -16,6 +16,6 @@ Jeden Mittwoch ab 20.00 Uhr steht der Hackspace allen Interessierten offen, um a
 
 *** Unserer Virtueller Hackspace steht zur Verfügung, ist aber nicht immer betreut ***
 
-https://meet.jit.si/LABORLuzernsvirtuellerHackspace
+https://meet.zrh.init7.net/LABORLuzernsvirtuellerHackspace
 
 ![Labor](/img/event/hackspace-kriens.jpg)
