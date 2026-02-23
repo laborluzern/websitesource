@@ -1,10 +1,10 @@
 +++
-date = "2026-02-01T10:00:00+02:00"
+date = "2026-03-01T10:00:00+02:00"
 title = "Digitaler Unabhängigkeitstag / Digital Independence Day"
 image = "/img/event/did.jpg"
 +++
 
-__Nächster DuT:__ 01.02.2026 13:30 - 15:00
+__Nächster DuT:__ 01.03.2026 13:30 - 17:00
 
 Jeden ersten Sonntag im Monat auf die richtige Seite wechseln.
 
