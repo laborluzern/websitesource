@@ -4,7 +4,8 @@ title = "Digitaler Unabhängigkeitstag / Digital Independence Day"
 image = "/img/event/did.jpg"
 +++
 
-__Nächster DuT:__ 01.03.2026 13:30 - 17:00
+__Nächster DuT:__ 2. Mai 2026 13:30 - 17:00
+
 
 Jeden ersten Sonntag im Monat auf die richtige Seite wechseln.
 
