@@ -1,6 +1,7 @@
 +++
 date = "2026-03-01T18:28:21+02:00"
 title = "Luxeria"
+image = "/img/partner/lux_logo.svg"
 
 +++
 
