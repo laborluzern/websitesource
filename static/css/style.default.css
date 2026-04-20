@@ -58,6 +58,9 @@ section.background-secondary {
   font-style: italic;
   font-family: "Georgia", "Times New Roman", Times, serif;
 }
+.img-partner{
+  margin: 0 15px 0 0;
+}
 .img-responsive {
   margin: 0 auto;
 }
